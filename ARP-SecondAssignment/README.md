@@ -1,5 +1,5 @@
 # Second Assignment for the course "Advanced and Robot Programming" - UniGe
-### Developed by  [@Miryru](https://github.com/Miryru), [@alemuraa](https://github.com/alemuraa), [@Ivanterry00](https://github.com/Ivanterry00)
+### Developed by  [@Miryru](https://github.com/Miryru), [@alemuraa](https://github.com/alemuraa), [@IvanTerrile](https://github.com/IvanTerrile)
 Assignment given by the professor Renato Zaccaria for the course "Advanced and Robot Programming" - Robotics Engineering, at the University of Genova.
 
 The project provides you with a base infrastructure for the implementation of the simulated vision system through shared memory, according to the requirements specified in the PDF file of the assignment.
